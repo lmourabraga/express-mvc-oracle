@@ -1,0 +1,21 @@
+{
+  "name": "express-mvc-oracle",
+  "version": "1.0.0",
+  "description": "A Express Framework structure ready to start projects with Oracle Database connections.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "expressMvcOracle"
+  },
+  "author": "Luã Braga",
+  "license": "ISC",
+  "dependencies": {
+    "consign": "^0.1.6",
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "oracledb": "^4.2.0"
+  }
+}
